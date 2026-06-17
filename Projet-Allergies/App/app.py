@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import sqlite3
 import seaborn as sns
 import streamlit as st
+import os
 
 # Dans le fichier BRUT, il y a 4,271 lignes. On a nettoyé ce fichier.
 # Dans le fichier CLEAN, il y a 4,145 lignes.
@@ -14,6 +15,9 @@ conn = sqlite3.connect(db_path)
 
 df = pd.read_sql("Select * From allergies_categories", conn)
 conn.close()
+
+print("Current directory :", os.getcwd())
+print("Database path :", db_path)
 
 # Identification des colonnes de métadonnées des patients (à ne pas sommer)
 colonnes_metadonnees = [

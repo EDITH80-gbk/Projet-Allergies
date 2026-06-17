@@ -1,7 +1,7 @@
 pandas
-sqlite3
 matplotlib
 seaborn
 sklearn
 numpy
 shap
+streamlit==1.x.x

@@ -1,0 +1,1160 @@
+allergen,name,molecular_mass,route
+Aca f 1,Ole e 1-like protein,17 kDa ,Airway
+Aca f 2,Profilin,14.3 kDa,Airway
+Aca s 13,Cytosolic fatty acid-binding protein,15 kDa,Airway
+Aca s 2,NPC2 family; MD-2-related lipid recognition (ML) domain containing protein,14 kDa,Airway
+Act c 10,Non-specific lipid transfer protein type 1 (nsLTP1),10 kDa,Food
+Act c 5,Kiwellin,28 kDa,Food
+Act c 8,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17 kDa,Food
+Act d 1,Cysteine protease (actinidin),30 kDa,Food
+Act d 10,Non-specific lipid transfer protein type 1 (nsLTP1),10 kDa,Food
+Act d 11,"Major latex protein/ripening-related protein (MLP/RRP), Bet v 1 family member",17 kDa,Food
+Act d 12,"Cupin, 11S globulin seed storage protein","50,207.304 Da (mass spectrometry of Act d 12.0101)",Food
+Act d 13,2S albumin,"11,359,6 Da (mass spectrometry)",Food
+Act d 2,Thaumatin-like protein,24 kDa,Food
+Act d 3,,40 kDa,Food
+Act d 4,Phytocystatin,11 kDa,Food
+Act d 5,Kiwellin,28 kDa,Food
+Act d 6,Pectin methylesterase inhibitor,18 kDa,Food
+Act d 7,Pectin methylesterase,50 kDa,Food
+Act d 8,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17 kDa ,Food
+Act d 9,Profilin,14 kDa,Food
+Aed a 1,Apyrase,68 kDa,Injection
+Aed a 10,Tropomyosin,32 kDa,Airway
+Aed a 11,Lysosomal aspartic protease,,Injection
+Aed a 12,Triosphosphate isomerase,23 kDa,Injection
+Aed a 2,Salivary odorant binding protein D7,37 kDa,Injection
+Aed a 3,Uncharacterized 30 kDa salivary protein,30 kDa,Injection
+Aed a 4,alpha-glucosidase,67 kDa,Injection
+Aed a 5,Sarcoplasmic Calcium binding protein,28.5 kDa,Airway
+Aed a 6,Porin3,30.7 kDa,Airway
+Aed a 7,Uncharacterized protein,,Injection
+Aed a 8,Heat Shock cognate protein-70,,Injection
+Aed al 13,Antigen 5-3,27 kDa,Injection
+Aed al 14,Salivary antigen LIPS-2 / 34k-2,34 kDa (SEC),Injection
+Aed al 2,D7 like salivary odorant binding protein,33 kDa,Injection
+Aed al 3,30 kDa Salivary protein ,30 kDa,Injection
+Aes h 1,Defensin-like protein,5.8 kDa,Contact
+Aln g 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",18 kDa,Airway
+Aln g 4,Polcalcin,6-7 kDa,Airway
+Alt a 1,,16.4 kDa and 15.3 kDa band (30 kDa non-red),Airway
+Alt a 10,Aldehyde dehydrogenase,53 kDa,Airway
+Alt a 12,Acid ribosomal protein P1,11 kDa,Airway
+Alt a 13,Glutathione-S-transferase,26 kDa,Airway
+Alt a 14,Manganese superoxide dismutase,24 kDa (reducing),Airway
+Alt a 15,Serine protease,58 kDa,Airway
+Alt a 3,Heat shock protein 70,,Airway
+Alt a 4,Disulfide isomerase,57 kDa,Airway
+Alt a 5,Ribosomal protein P2,11 kDa,Airway
+Alt a 6,Enolase,45 kDa,Airway
+Alt a 7,YCP4 protein,22 kDa,Airway
+Alt a 8,Mannitol dehydrogenase,29 kDa,Airway
+Ama r 1,Ole e 1- like protein,18 kDa ,Airway
+Ama r 2,Profilin,14 kDa,Airway
+Amb a 1,Pectate lyase,38 kDa,Airway
+Amb a 10,Polcalcin-like protein (4 EF-hands),17 kDa ,Airway
+Amb a 11,Cysteine protease,"37 kDa (natural purified mature protein), 52 kDa (natural purified zymogen)",Airway
+Amb a 12,Enolase,48 kDa,Airway
+Amb a 2,renamed to Amb a 1.05; number not available for future submissions,,Airway
+Amb a 3,Plastocyanine,11 kDa,Airway
+Amb a 4,"Defensin-like protein linked to polyproline-rich region, homologue of Art v 1",28-30 kDa,Airway
+Amb a 5,,5 kDa,Airway
+Amb a 6,Non-specific lipid transfer protein type 1 (nsLTP1),10 kDa,Airway
+Amb a 7,Plastocyanin,12 kDa,Airway
+Amb a 8,Profilin,14 kDa,Airway
+Amb a 9,Polcalcin,9 kDa,Airway
+Amb p 5,,5 kDa,Airway
+Amb t 13,superoxide dismutase,17 kDa,Airway
+Amb t 18,Triosephosphate isomerase,26 kDa,Airway
+Amb t 5,,5 kDa,Airway
+Amb t 8,Profilin,14 kDa,Airway
+Ana c 1,Profilin,15 kDa,Food
+Ana c 2,Bromelain,22.8 kDa,Food
+Ana o 1,Vicilin-like protein,50 kDa,Food
+Ana o 2,Legumin-like protein,55 kDa,Food
+Ana o 3,2S albumin,14 kDa,Food
+Ani s 1,"unknown function, similar to Kunitz serine protease inhibitors",24 kDa,Food
+Ani s 10,Protein with unknown function,21 kDa,Food
+Ani s 11,Protein with unknown function,27 kDa,Food
+Ani s 12,Protein with unknown function,31 kDa,Food
+Ani s 13,Hemoglobin,37 kDa,Food
+Ani s 14,3rd stage larval protein unknown function,"24 kDa as deduced, 27 kDa on gel with His-tag",Food
+Ani s 2,Paramyosin,97 kDa,Food
+Ani s 3,Tropomyosin,41 kDa,Food
+Ani s 4,Cysteine protease inhibitor,9 kDa,Food
+Ani s 5,SXP/RAL-2 family protein,15 kDa,Food
+Ani s 6,Serine protease inhibitor,,Food
+Ani s 7,,139 kDa,Food
+Ani s 8,SXP/RAL-2 family protein,15 kDa,Food
+Ani s 9,SXP/RAL-2 family protein,14 kDa,Food
+Ano d 2,Salivary odorant binding protein D7,15 kDa,Injection
+Ant o 1,Beta-expansin,25-35 kDa,Airway
+Api c 1,Phospholipase A2,16 kDa,Injection
+Api d 1,Phospholipase A2,16 kDa,Injection
+Api g 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",16 kDa,Food
+Api g 2,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Api g 3,"Chlorophyll a-b binding protein, chloroplast",28 kDa,Food
+Api g 4,Profilin,14 kDa,Food
+Api g 5,FAD-containing oxidase,58 kDa,Food
+Api g 6,Non-specific lipid transfer protein type 2 (nsLTP2),7 kDa,Food
+Api g 7,Defensin like protein 1,12 kDa,Food
+Api m 1,Phospholipase A2,16 kDa,Injection
+Api m 10,"Icarapin variant 2, carbohydrate-rich protein",50-55 kDa,Injection
+Api m 11,Major royal jelly protein ,50 kDa (deglycosylated form),Injection
+Api m 12,Vitellogenin,200 kDa,Injection
+Api m 2,Hyaluronidase,44 kDa,Injection
+Api m 3,Acid phosphatase,43 kDa,Injection
+Api m 4,Melittin,3 kDa,Injection
+Api m 5,Dipeptidylpeptidase IV,100 kDa,Injection
+Api m 6,,8 kDa,Injection
+Api m 7,CUB serine protease,39 kDa,Injection
+Api m 8,Carboxylesterase,70 kDa,Injection
+Api m 9,Serine carboxypeptidase,60 kDa,Injection
+Apo p 1,Phospholipase A1,33 kDa,Injection
+Apo p 5,Antigen 5,23 kDa,Injection
+Ara h 1,"Vicillin, 7S globulin seed storage protein (contains an N-terminal alpha-hairpinin)",64 kDa,Food
+Ara h 10,oleosin,16 kDa,Food
+Ara h 11,oleosin,14 kDa,Food
+Ara h 12,Defensin,"8 kDa (reducing), 12 kDa (non-reducing), 5.184 kDa (mass)",Food
+Ara h 13,Defensin,"8 kDa (reducing), 11 kDa (non-reducing), 5.472 kDa (mass)",Food
+Ara h 14,Oleosin,17.5 kDa,Food
+Ara h 15,Oleosin 3,17 kDa,Food
+Ara h 16,Non-specific lipid transfer protein type 2 (nsLTP2),8.5 kDa by SDS PAGE reducing,Food
+Ara h 17,Non-specific lipid transfer protein type 1 (nsLTP1),11 kDa by SDS-PAGE reducing,Food
+Ara h 18,"Cyclophilin, peptidyl-prolyl cis-trans isomerase",21 kDa,Food
+Ara h 19,Annexin Gh1,39 kDa,Food
+Ara h 2,Conglutin (2S albumin),17 kDa ,Food
+Ara h 20,Seed biotinylated protein SBP65,57 kDa,Food
+Ara h 3,"Cupin (Legumin-type, 11S globulin, Glycinin)","60 kDa, 37 kDa (fragment)",Food
+Ara h 4,"renamed to Ara h 3.02, number not available for future submissions",,Food
+Ara h 5,Profilin,15 kDa,Food
+Ara h 6,Conglutin (2S albumin),15 kDa,Food
+Ara h 7,Conglutin (2S albumin),15 kDa,Food
+Ara h 8,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17 kDa ,Food
+Ara h 9,Non-specific lipid transfer protein type 1 (nsLTP1),9.8 kDa,Food
+Arc s 8,Triosephosphate isomerase,~28 kDa,Food
+Arg r 1,,17 kDa ,Injection
+Art ab 1,"Defensin-like protein with polyproline rich domain, Art v 1-like",24 to 26 kDa,Airway
+Art an 1,"Defensin-like protein with polyproline-rich domain, Art v 1-like",24 to 26 kDa,Airway
+Art an 14,Fructose bisphosphate aldolase,38 kDa,Airway
+Art an 2,Pathogenesis related protein PR-1,18 kDa,Airway
+Art an 3,Non-specific lipid transfer protein type 1 (nsLTP1),10 kDa,Airway
+Art an 4,Profilin,14 kDa,Airway
+Art an 7,Putative Galactose Oxidase,62 kDa,Airway
+Art ar 1,"Defensin-like protein with polyproline-rich domain, Art v 1-like",28 kDa,Airway
+Art ar 2,Pathogenesis-related protein PR-1,18 kDa,Airway
+Art ar 3,Non-specific lipid transfer protein type 1 (nsLTP1),10 kDa,Airway
+Art c 1,"Defensin-like protein with polyproline-rich domain, Art v 1-like",24 to 26 kDa,Airway
+Art ca 1,"Defensin-like protein with polyproline-rich domain, Art v 1-like",28 kDa,Airway
+Art ca 2,Pathogenesis-related protein PR-1,18 kDa,Airway
+Art ca 3,Non-specific lipid transfer protein type 1 (nsLTP1),10 kDa,Airway
+Art d 1,Defensin-like protein with C-terminal hydroxyproline-rich domain,25-30 kDa,Airway
+Art d 12,Enolase,48 kDa,Airway
+Art d 14,Fructose bisphosphate aldolase,40 kDa,Airway
+Art d 2,Pathogenesis-related protein PR-1,17 kDa,Airway
+Art d 3,Non-specific lipid transfer protein type 1 (nsLTP1),10 kDa,Airway
+Art d 4,Profilin,14 kDa,Airway
+Art d 5,Polcalcin,9 kDa,Airway
+Art d 6,Pectate lyase,45 kDa,Airway
+Art d 7,Galactose oxidase,65 kDa,Airway
+Art d 8,Superoxide dismutase,15 kDa,Airway
+Art d 9,"Cyclophilin, peptidyl-prolyl cis-trans isomerase",18 kDa,Airway
+Art f 1,"Defensin-like protein with polyproline rich domain, Art v 1-like",24 to 26 kDa,Airway
+Art fr 5,"Myosin, light chain 1",~17.5 kDa,Food
+Art gm 1,"Defensin-like protein with polyproline-rich domain, Art v 1-like",28 kDa,Airway
+Art gm 2,Pathogenesis-related protein PR-1,18 kDa,Airway
+Art gm 3,Non-specific lipid transfer protein type 1 (nsLTP1),10 kDa,Airway
+Art l 1,"Defensin-like protein with polyproline rich domain, Art v 1-like",24-26 kDa,Airway
+Art la 1,"Defensin-like protein with polyproline-rich domain, Art v 1-like",28 kDa,Airway
+Art la 2,Pathogenesis-related protein PR-1,18 kDa,Airway
+Art la 3,Non-specific lipid transfer protein type 1 (nsLTP1),10 kDa,Airway
+Art o 19,Thioredoxin,13 kDa,Airway
+Art o 20,Malate dehydrogenase,25 kDa,Airway
+Art o 4,Profilin,14 kDa,Airway
+Art o 6,Pectate lyase,47 kDa,Airway
+Art si 1,"Defensin-like protein with polyproline-rich domain, Art v 1-like",28 kDa,Airway
+Art si 12,Enolase,50 kDa,Airway
+Art si 14,Fructose bisphosphate aldolase,38 kDa,Airway
+Art si 2,Pathogenesis-related protein PR-1,18 kDa,Airway
+Art si 3,Non-specific lipid transfer protein type 1 (nsLTP1),10 kDa,Airway
+Art si 5,Polcalcin,9 kDa,Airway
+Art si 6,Pectate lyase,39 kDa,Airway
+Art si 8,Superoxide dismutase,17 kDa,Airway
+Art t 1,"Defensin-like protein with polyproline rich domain, Art v 1-like",24 to 26 kDa,Airway
+Art v 1,Defensin-like protein linked to polyproline-rich region,28 kDa,Airway
+Art v 2,Pathogenesis-related protein PR-1,20 kDa (35 kDa non-red),Airway
+Art v 3,Non-specific lipid transfer protein type 1 (nsLTP1),12 kDa,Airway
+Art v 4,Profilin,14 kDa,Airway
+Art v 5,Polcalcin,10 kDa,Airway
+Art v 6,Pectate lyase,44 kDa,Airway
+Asc l 13,Glutathione S-transferase (GST),23 kDa,Food
+Asc l 3,Tropomyosin,40 kDa,Food
+Asc l 5,"Al16, members of the SXP/RAL-2 protein family",14 kDa,Food
+Asc s 1,,10 kDa,Food
+Asc s 13,Glutathione S-transferase,23 kDa,Food
+Asp f 1,Mitogillin family,18 kDa,Airway
+Asp f 10,Aspartate protease,34 kDa,Airway
+Asp f 11,"Peptidyl-prolyl cis-trans isomerase, cyclophilin",24 kDa,Airway
+Asp f 12,Heat shock protein P90,90 kDa,Airway
+Asp f 13,Alkaline serine protease,34 kDa,Airway
+Asp f 15,Cerato-platanin,16 kDa,Airway
+Asp f 16,Cell wall associated glycosidase Crf1,43 kDa,Airway
+Asp f 17,Hydrophobic surface binding protein HsbA,27 kDa,Airway
+Asp f 18,Vacuolar serine protease,34 kDa,Airway
+Asp f 19,Heat shock protein 70 kDa (Hsp70),69.4 kDa,Airway
+Asp f 2,Pra1-related protein containing a HRXXH motif-containing metalloprotease domain,37 kDa,Airway
+Asp f 22,Enolase,46 kDa,Airway
+Asp f 23,L3 ribosomal protein,44 kDa,Airway
+Asp f 24,putative eukaryotic translation elongation factor 1 subunit EF1-beta,34 kDa,Airway
+Asp f 27,Cyclophilin,18 kDa,Airway
+Asp f 28,Thioredoxin,13 kDa,Airway
+Asp f 29,Thioredoxin,13 kDa,Airway
+Asp f 3,Peroxysomal protein,19 kDa,Airway
+Asp f 34,PhiA cell wall protein,20 kDa,Airway
+Asp f 35,Cu-Zn Superoxide dismutase,21 kDa,Airway
+Asp f 36,Fructose-bisphosphate aldolase,42 kDa,Airway
+Asp f 37,Malate dehydrogenase NAD-Dependent,35 kDa,Airway
+Asp f 38,Protein of unknown function,25 kDa ,Airway
+Asp f 39,FG-GAP repeat protein,35 kDa,Airway
+Asp f 4,Protein of unknown function,30 kDa,Airway
+Asp f 5,Metalloprotease,40 kDa,Airway
+Asp f 6,Mn superoxide dismutase,26.5 kDa,Airway
+Asp f 7,Expansin-like protein,12 kDa,Airway
+Asp f 8,Ribosomal protein P2,11 kDa,Airway
+Asp f 9,Cell wall associated glycosidase Crf1,34 kDa,Airway
+Asp fl 13,Alkaline serine protease,34 kDa,Airway
+Asp n 14,Beta-xylosidase,105 kDa,Airway
+Asp n 18,Vacuolar serine protease,34 kDa,Airway
+Asp n 25,3-phytase B,66-100 kDa,Airway
+Asp o 13,Alkaline serine protease,34 kDa,Airway
+Asp o 21,TAKA-amylase A,53 kDa,Airway
+Asp t 36,Triosephosphate isomerase,28 kDa,Airway
+Asp v 13,Extracellular alkaline serine protease,43 kDa,Airway
+Aspa o 1,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Bac s 1,Nattokinase (subtilisin-like serine protease),30 kDa,Food
+Ber e 1,2S sulfur-rich seed storage albumin,9 kDa,Food
+Ber e 2,11S globulin seed storage protein,29 kDa,Food
+Bet v 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17 kDa ,Airway
+Bet v 2,Profilin,15 kDa,Airway
+Bet v 3,Polcalcin-like protein (4 EF-hand),24 kDa,Airway
+Bet v 4,Polcalcin,7-8 kDa,Airway
+Bet v 6,Phenylcoumaran benzylic ether reductase,35 kDa,Airway
+Bet v 7,Cyclophilin,18 kDa,Airway
+Bet v 8,Glutathione-S-transferase,27 kDa,Airway
+Beta v 1,Che a 1/Ole e 1 homolgue,17 kDa,Airway
+Beta v 2,"Profilin, pollen",14 kDa,Airway
+Bla g 1,"Nitrile specifier, microvilli-like protein with unknown function",46 kDa,Airway
+Bla g 11,Alpha-amylase,57 kDa,Airway
+Bla g 12,Chitinase,58 kDa,Airway
+Bla g 2,inactive aspartic protease,36 kDa,Airway
+Bla g 24,Glutathione S-transferase (GST) class delta (related to Per a 5),25 kDa,Airway
+Bla g 3,"Hemocyanin, Arylphorins/TO Arthropod hemocyanins",78.9 kDa (by mass spectrometry),Airway
+Bla g 4,"Calycin, lipocalin",21 kDa,Airway
+Bla g 5,Glutathione S-transferase (GST) class sigma,23 kDa,Airway
+Bla g 6,Troponin C,21 kDa,Airway
+Bla g 7,Tropomyosin,33 kDa,Airway
+Bla g 8,"Myosin, light chain",21 kDa,Airway
+Bla g 9,Arginine kinase,40 kDa,Airway
+Blo t 1,Cysteine protease,39 kDa,Airway
+Blo t 10,Tropomyosin,33 kDa,Airway
+Blo t 11,Paramyosin,110 kDa,Airway
+Blo t 12,Peritrophin-A-like domain containing protein,14 kDa,Airway
+Blo t 13,Cytosolic fatty acid-binding protein,14.8 kDa,Airway
+Blo t 16,Gelsolin/villin,55 kDa,Airway
+Blo t 18,Chitinase-like protein (contains a C-terminal peritrophin-A-like domain),55 kDa,Airway
+Blo t 19,Anti-microbial peptide homologue,7 kDa,Airway
+Blo t 2,NPC2 family; MD-2-related lipid recognition (ML) domain containing protein,14.5 kDa,Airway
+Blo t 21,Group 5/21 allergen,13 kDa,Airway
+Blo t 24,Ubiquinol-cytochrome c reductase binding protein; Cytochrome b-c1 complex subunit 7,14 kDa,Airway
+Blo t 26,Myosin light chain,22 kDa,Airway
+Blo t 27,Serpin serine protease inhibitor,44 kDa,Airway
+Blo t 28,Heat shock protein Hsp70,70 kDa,Airway
+Blo t 3,Trypsin,23.8 kDa,Airway
+Blo t 30,Ferritin,20 kDa,Airway
+Blo t 31,Cofilin,17 kDa,Airway
+Blo t 32,Inorganic pyrophosphatase,34 kDa,Airway
+Blo t 37,Chitin binding protein (contains 2 peritrophin-A-like domains),19 kDa,Airway
+Blo t 4,Alpha-amylase,56 kDa,Airway
+Blo t 41,Putative chitin-binding protein (contains a peritrophin-A-like domain),14 kDa,Airway
+Blo t 5,Group 5/21 allergen,14 kDa,Airway
+Blo t 6,Chymotrypsin,25 kDa,Airway
+Blo t 7,Bactericidal permeability-increasing like protein,25 kDa,Airway
+Blo t 8,Glutathione S-transferase,27 kDa,Airway
+Blo t 9,Trypsin-like serine protease,27 kDa,Airway
+Bom p 1,Phospholipase A2,16 kDa,Injection
+Bom p 4,Protease,27 kDa,Injection
+Bom t 1,Phospholipase A2,16 kDa,Injection
+Bom t 4,Protease,27 kDa,Injection
+Bomb m 1,Arginine kinase,42 kDa,Food
+Bomb m 3,Tropomyosin,38 kDa,Food
+Bomb m 4,30 kDa hemolypmh lipoprotein PBMHP-6,30 kDa,Food
+Bomb m 5,30 kDa Lipoprotein 6,29 kDa,Food
+Bomb m 6,Hemolymph lipoprotein 3,28 kDa,Food
+Bos d 10,alphaS2-casein,25.2 kDa,Food
+Bos d 11,beta-casein,24 kDa,Food
+Bos d 12,kappa-casein,19 kDa,Food
+Bos d 13,Myosin light chain,21 kDa,Food
+Bos d 2,Lipocalin,20 kDa,Airway
+Bos d 3,S100 calcium-binding protein A7,11 kDa,Airway
+Bos d 4,Alpha-lactalbumin,14.2 kDa,Food
+Bos d 5,Beta-lactoglobulin,18.3 kDa,Food
+Bos d 6,Serum albumin,67 kDa,Food
+Bos d 7,Immunoglobulin,160 kDa,Food
+Bos d 8,Caseins (for individual components see Bos d 9-Bos d 12),20-30 kDa,Food
+Bos d 9,alphaS1-casein,23.6 kDa,Food
+Bra j 1,2S albumin seed storage protein,14 kDa,Food
+Bra n 1,"2S albumin seed storage protein, napin BnIII, napin-3",15 kDa,Food
+Bra o 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Bra r 1,"2S albumin, napins",10-14 kDa,Food
+Bra r 2,Prohevein homologue,25 kDa,Food
+Bra r 5,Polcalcin,,Airway
+Bro p 3,Non-specific lipid transfer protein type 1 (nsLTP1),12-15 kDa,Airway
+Cal b 2,Arginine kinase,40 kDa,Food
+Can f 1,Lipocalin,23-25 kDa,Airway
+Can f 2,Lipocalin,19 (27) kDa,Airway
+Can f 3,Serum albumin,69 kDa,Airway
+Can f 4,Lipocalin,"16 kDa (non-red.), 18 kDa (red.)",Airway
+Can f 5,"Arginine esterase, prostatic kallikrein",28 kDa,Airway
+Can f 6,Lipocalin,27 and 29 kDa,Airway
+Can f 7,"Epididymal Secretory Protein E1, or  Niemann Pick type C2 protein",16 kDa,Airway
+Can f 8,Cystatin,14 kDa,Airway
+Can s 2,Profilin,14 kDa,Airway
+Can s 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Airway
+Can s 4,Oxygen evolving Enhancer Protein 2,27.3 kDa,Airway
+Can s 5,"Pathogenesis-related protein PR-10, Bet v 1-related protein",17.7 kDa,Airway
+Can s 7,Thaumatin-like protein,,Airway
+Cand a 1,Alcohol dehydrogenase,40 kDa,Airway
+Cand a 3,Peroxysomal protein,20 kDa,Airway
+Cand b 2,Peroxisomal membrane protein A,20 kDa,Airway
+Cap a 1,Osmotin-like protein (thaumatin-like protein),23 kDa,Food
+Cap a 2,Profilin,14 kDa,Food
+Cap a 7,"Gibberellin-regulated protein, snakin",10 kDa reducing; 12 kDa non-reducing,Food
+Car b 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17 kDa ,Airway
+Car i 1,2S albumin seed storage protein,16 kDa,Food
+Car i 2,Vicilin-like seed storage protein; 7S globulin,55 kDa,Food
+Car i 4,Legumin seed storage protein; 11S globulin,Subunit of hexameric protein: 55.4 kDa,Food
+Cari p 1,endo-polygalacturonase,57 kDa,Food
+Cari p 2,Chymopapain; member of the papain-like cysteine protease (petidase C1) family,28 kDa,Food
+Carp l 2,NPC2 family; MD-2-related lipid recognition (ML) domain containing protein,14 kDa,Airway
+Cas s 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",22 kDa,Airway
+Cas s 5,Chitinase class I,,Food
+Cas s 8,Non-specific lipid transfer protein type 1 (nsLTP1),"12-13 kDa (non-red), 9 kDa (red)",Food
+Cas s 9,Cytosolic class I small heat shock protein; Hsp20,17 kDa,Food
+Cat r 1,Cyclophilin,18 kDa,Airway
+Cav p 1,Lipocalin,20 kDa,Airway
+Cav p 2,Lipocalin,17 kDa,Airway
+Cav p 3,Lipocalin,18 kDa,Airway
+Cav p 4,Serum albumin,66 kDa,Airway
+Cav p 6,Lipocalin,18 kDa,Airway
+Cha f 1,Tropomyosin,34 kDa,Food
+Cha f 10,Fructose bisphosphate aldolase,41 kDa,Food
+Cha o 1,Pectate lyase,47 kDa,Airway
+Cha o 2,Polygalacturonase,45 kDa,Airway
+Cha o 3,Cellulase (glycosyl hydrolase),63kDa,Airway
+Che a 1,Ole e 1 homologue,17 kDa ,Airway
+Che a 2,Profilin,14 kDa,Airway
+Che a 3,Polcalcin,10 kDa,Airway
+Chi k 10,Tropomyosin,32.5 kDa,Injection
+Chi t 1,"Hemoglobin, component III/IV",16 kDa,Airway
+Chi t 2,"Hemoglobin, component I/IA",16 kDa,Airway
+Chi t 3,"Hemoglobin, components II-beta, VI, VII, VIII, IX",16 kDa,Airway
+Chi t 4,"Hemoglobin, component IIIA",16 kDa,Airway
+Chi t 5,renamed to Chi t 3.0201; designation not available for future submissions,,Airway
+Chi t 6,renamed to Chi t 3.03 and Chi t 3.04; designation not avbailable for future submissions,,Airway
+Chi t 7,renamed to Chi t 3.05-Chi t 3.08; designation not available for future submissions,,Airway
+Chi t 8,renamed to Chi t 3.09; designation not available for future submissions,,Airway
+Chi t 9,"Hemoglobin, component X",16 kDa,Airway
+Cho a 10,Tropomyosin,42 kDa,Airway
+Cho a 2,NPC2 family; MD-2-related lipid recognition (ML) domain containing protein,14 kDa,Airway
+Cic a 1,Late embryogenesis abundant protein family 4; ECP63-like,42 kDa,Food
+Cic a 1 1,Late embryogenesis protein 4,42 kDa,Food
+Cit l 3,Non-specific lipid transfer protein type 1 (nsLTP1),9.6 kDa (MALDI-TOF MS),Food
+Cit r 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Cit s 1,Germin-like protein,23 kDa,Food
+Cit s 2,Profilin,14 kDa,Food
+Cit s 3,Non-specific lipid transfer protein type 1 (nsLTP1),9.46 kDa (MALDI-TOF MS),Food
+Cit s 7,"Gibberellin regulated protein, peamaclein",8 kDa,Food
+Citr l 2,Profilin,14 kDa,Food
+Cla c 14,Transaldolase,36.5 kDa,Airway
+Cla c 9,Vacuolar serine protease,36 kDa,Airway
+Cla h 10,Aldehyde dehydrogenase,53 kDa,Airway
+Cla h 12,Acid ribosomal protein P1,11 kDa,Airway
+Cla h 2,,23 kDa,Airway
+Cla h 5,Acid ribosomal protein P2,11 kDa,Airway
+Cla h 6,Enolase,46 kDa,Airway
+Cla h 7,YCP4 protein,22 kDa,Airway
+Cla h 8,Mannitol dehydrogenase,28 kDa,Airway
+Cla h 9,Vacuolar serine protease,45 kDa on SDS-PAGE,Airway
+Clu h 1,Beta-parvalbumin,12 kDa,Food
+Coc n 1,vicilin-like protein,53 kDa,Airway
+Cof a 1,Class III chitinase,32 kDa,Airway
+Cof a 2,Metallothionein type 2,9 kDa,Airway
+Cof a 3,Metallothionein type 3,7 kDa,Airway
+Cop c 1,Leucine zipper protein,11 kDa,Airway
+Cop c 2,Thioredoxin,12 kDa,Airway
+Cop c 3,Putative RNA-binding protein,37 kDa,Airway
+Cop c 5,,16 kDa,Airway
+Cop c 7,,16 kDa,Airway
+Copt f 7,Tropomyosin,35.4 kDa,Airway
+Cor a 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17 kDa ,Airway
+Cor a 10,Luminal binding protein,70 kDa,Airway
+Cor a 11,7S seed storage globulin (vicilin-like),48 kDa,Food
+Cor a 12,17 kDa oleosin,17 kDa,Food
+Cor a 13,14-16 kDa oleosin,14-16 kDa,Food
+Cor a 14,2S albumin,10 kDa reducing,Food
+Cor a 15,Oleosin,17 kDa,Food
+Cor a 16,7S globulin seed storage protein (vicilin) containing N-terminal alpha-hairpinin (vicilin_N) peptides,6-8 kDa and 47.5 kDa,Food
+Cor a 2,Profilin,14 kDa,Food
+Cor a 6,Isoflavone reductase homologue,35 kDa,Airway
+Cor a 8,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Cor a 9,11S seed storage globulin (legumin-like),40 kDa,Food
+Cra a 1,Tropomyosin,38 kDa,Food
+Cra a 2,Arginine kinase,38 kDa to 41 kDa,Food
+Cra a 4,Sarcoplasmic calcium binding protein,20 kDa,Food
+Cra c 1,Tropomyosin,~38 kDa,Food
+Cra c 2,Arginine kinase,~45 kDa,Food
+Cra c 4,Sarcoplasmic calcium-binding protein,~25 kDa,Food
+Cra c 5,"Myosin, light chain 1",~17.5 kDa,Food
+Cra c 6,Troponin C,~21 kDa,Food
+Cra c 8,Triosephosphate isomerase,~28 kDa,Food
+Cra g 1,tropomyosin,38 kDa,Food
+Cro p 1,beta-parvalbumin,11.6 kDa,Food
+Cro p 2,alpha-parvalbumin,13 kDa,Food
+Cro s 1,Ole e 1-like protein,21 kDa,Airway
+Cro s 2,Profilin,14 kDa,Airway
+Cry j 1,Pectate lyase,41-45 kDa (45-50 kDa non-red),Airway
+Cry j 2,Polygalacturonase,45 kDa (37 kDa non-red),Airway
+Cry j 3,Thaumatin-like protein (pathogenesis-related protein PR-5),27 kDa,Airway
+Cry j 7,Gibberellin-regulated protein,7 kDa,Airway
+Cte f 1,FS-1,18 kDa,Injection
+Cte f 2,Venom antigen 5,27 kDa,Injection
+Cte f 3,,25 kDa,Injection
+Cten i 1,Beta-parvalbumin,9 kDa,Food
+Cuc m 1,Alkaline serine protease (cucumisin),67 kDa,Food
+Cuc m 2,Profilin,14 kDa,Food
+Cuc m 3,Pathogenesis-related protein PR-1,17 kDa ,Food
+Cuc ma 4,11S globulin,50 kDa non reducing; 35 kDa and 23 kDa reducing,Food
+Cuc ma 5,2S albumin,14 kDa,Food
+Cul q 2,Salivary odorant binding protein D7clu12,33 kDa,Injection
+Cul q 3,Salivary odorant binding protein D7clu1,35 kDa,Injection
+Cup a 1,Pectate lyase,43 kDa,Airway
+Cup s 1,Pectate lyase,43 kDa,Airway
+Cup s 2,Polygalacturonase,43 kDa,Airway
+Cup s 3,Thaumatin-like protein,34 kDa,Airway
+Cup s 7,"Gibberellin-regulated protein, cypmaclein, BP14",9.5 kDa,Airway
+Cur l 1,Serine protease,31 kDa,Airway
+Cur l 2,Enolase,48 kda,Airway
+Cur l 3,Cytochrome c,12 kDa,Airway
+Cur l 4,Subtilisin like serine protease,54 kDa,Airway
+Cyn d 1,Beta-expansin,32 kDa,Airway
+Cyn d 12,Profilin,14.5 kDa,Airway
+Cyn d 15,,9 kDa,Airway
+Cyn d 22,enolase,,Airway
+Cyn d 23,,9 kDa,Airway
+Cyn d 24,Pathogenesis-related protein PR-1,21 kDa,Airway
+Cyn d 7,Polcalcin,12 kDa,Airway
+Cyp c 1,beta-parvalbumin,12 kDa,Food
+Cyp c 2,beta enolase,47 kDa,Food
+Dac g 1,Beta-expansin,32 kDa,Airway
+Dac g 2,,11 kDa,Airway
+Dac g 3,,14 kDa,Airway
+Dac g 4,,60 kDa,Airway
+Dac g 5,,25/28 kDa,Airway
+Dau c 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",16 kDa,Food
+Dau c 4,Profilin,14 kDa,Food
+Dau c 5,Isoflavone reductase-like protein,33 kDa,Food
+Den n 1,,53 kDa and 21 kDa band; (80 kDa non-red),Airway
+Der f 1,Cysteine protease,27 kDa,Airway
+Der f 10,Tropomyosin,37 kDa,Airway
+Der f 11,Paramyosin,98 kDa,Airway
+Der f 13,Cytosolic fatty acid-binding protein,15 kDa,Airway
+Der f 14,Apolipophorin,177 kDa,Airway
+Der f 15,"Chitinase, contains a C-terminal peritrophin-A-like domain",98/109 kDa,Injection
+Der f 16,Gelsolin/villin,53 kDa,Airway
+Der f 17,Calcium binding protein,53 kDa,Airway
+Der f 18,Non-catalytic chitinase-like protein (contains a C-terminal peritrophin-A-like domain),60 kDa,Airway
+Der f 2,NPC2 family; MD-2-related lipid recognition (ML) domain containing protein,15 kDa,Airway
+Der f 20,Arginine kinase,40 kDa,Airway
+Der f 21,Group 5/21 allergen,14 kDa,Airway
+Der f 22,NPC2 family; MD-2-related lipid recognition (ML) domain containing protein,14.7 kDa,Airway
+Der f 23,Peritrophin-A-like protein,"19 kDa (Der f 23.01), 8 kDa (Der f 23.02)",Airway
+Der f 24,Ubiquinol-cytochrome c reductase binding protein; Cytochrome b-c1 complex subunit 7,13 kDa,Airway
+Der f 25,Triosephosphate isomerase,34 kDa,Airway
+Der f 26,Myosin alkali light chain,18 kDa,Airway
+Der f 27,Serpin,48 kDa,Airway
+Der f 28,Heat shock protein Hsp70,70 kDa,Airway
+Der f 29,Peptidyl-prolyl cis-trans isomerase (cyclophilin),15 kDa,Airway
+Der f 3,Trypsin,29 kDa,Airway
+Der f 30,Ferritin,15 kDa,Airway
+Der f 31,Cofilin,15 kDa,Airway
+Der f 32,Inorganic pyrophosphatase,35 kDa,Airway
+Der f 33,alpha-tubulin,52 kDa,Airway
+Der f 34,Rid-like protein; enamine/imine deaminase,16 kDa,Airway
+Der f 35,NPC2 family; MD-2-related lipid recognition (ML) domain containing protein,"14.4 kDa, natural and recombinant",Airway
+Der f 36,C2 domain-containing protein,23 kDa,Airway
+Der f 37,Chitin binding protein (contains 2 peritrophin-A-like domains),29 kDa,Airway
+Der f 38,Bacteriolytic enzyme,15 kDa,Airway
+Der f 39,Troponin C,18  kDa,Airway
+Der f 4,Alpha-amylase,57.9 kDa,Airway
+Der f 40,Thioredoxin like protein,12 kDa,Airway
+Der f 42,Na/K-exchanging ATPase beta-subunit,36 kDa,Airway
+Der f 43,Peroxiredoxin 1,27 kDa,Airway
+Der f 44,Peroxiredoxin 2,25 kDa,Airway
+Der f 5,Group 5/21 allergen,15.5 kDa,Airway
+Der f 6,Chymotrypsin,25 kDa,Airway
+Der f 7,Bactericidal permeability-increasing like protein,30-31 kDa,Airway
+Der f 8,Glutathione S-transferase,32 kDa,Airway
+Der f 9,Trypsin-like serine protease,28 kDa,Airway
+Der m 1,Cysteine protease,25 kDa,Airway
+Der m 2,NPC2 family; MD-2-related lipid recognition (ML) domain containing protein,17 kDa,Airway
+Der p 1,Cysteine protease,24 kDa,Airway
+Der p 10,Tropomyosin,36 kDa,Airway
+Der p 11,Paramyosin,103 kDa,Airway
+Der p 13,Cytosolic Fatty Acid Binding Protein,15 kDa,Airway
+Der p 14,Apolipophorin,177 kDa,Airway
+Der p 15,"Chitinase, contains a C-terminal peritrophin-A-like domain",58.8 and 61.4 kDa,Airway
+Der p 16,Gelsolin,55 kDa,Airway
+Der p 18,Non-catalytic chitinase-like protein (contains a C-terminal peritrophin-A-like domain),49.2 kDa,Airway
+Der p 2,NPC2 family; MD-2-related lipid recognition (ML) domain containing protein,15 kDa,Airway
+Der p 20,Arginine kinase,40 kDa,Airway
+Der p 21,Group 5/21 allergen,14.726 kDa ,Airway
+Der p 22,NPC2 family; MD-2-related lipid recognition (ML) domain containing protein,15 kDa,Airway
+Der p 23,Peritrophin-like protein domain (PF01607),14 kDa (dimer),Airway
+Der p 24,Ubiquinol-cytochrome c reductase binding protein; Cytochrome b-c1 complex subunit 7,13 kDa,Airway
+Der p 25,Triosphosphate isomerase,27 kDa,Airway
+Der p 26,Myosin light chain,14.1 kDa,Airway
+Der p 27,Serpin serine protease inhibitor,45 kDa,Airway
+Der p 28,Heat shock protein Hsp70,45 kDa,Airway
+Der p 29,"Cyclophilin, peptidyl-prolyl cis-trans isomerase",27.7 kDa,Airway
+Der p 3,Trypsin,31 kDa,Airway
+Der p 30,Ferritin,12.1 kDa,Airway
+Der p 31,Cofilin,16.8 kDa,Airway
+Der p 32,Inorganic pyrophosphatase ,45 kDa,Airway
+Der p 33,alpha-tubulin,44.2 kDa,Airway
+Der p 36,C2 domain containing protein,23 kDa,Airway
+Der p 37,Chitin binding protein (contains 2 peritrophin-A-like domains),30 kDa,Airway
+Der p 38,Bacteriolytic enzyme,15 kDa,Airway
+Der p 39,Troponin C,18 kDa,Airway
+Der p 4,Alpha-amylase,60 kDa,Airway
+Der p 40,Thioredoxin like protein,12 kDa,Airway
+Der p 5,Group 5/21 allergen,14 kDa,Airway
+Der p 6,Chymotrypsin,25 kDa,Airway
+Der p 7,Bactericidal permeability-increasing like protein,"26, 30 and 31 kDa",Airway
+Der p 8,Glutathione S-transferase,27 kDa,Airway
+Der p 9,Collagenolytic serine protease,29 kDa,Airway
+Dol a 5,Antigen 5,23 kDa,Injection
+Dol m 1,Phospholipase A1B,34 kDa,Injection
+Dol m 2,Hyaluronidase,42 kDa,Injection
+Dol m 5,Antigen 5,23 kDa,Injection
+Epi p 1,Serine protease,30 kDa,Airway
+Equ a 6,Lysozyme,15 kDa,Contact
+Equ c 1,Lipocalin,25 kDa,Airway
+Equ c 2,Lipocalin,17 kDa ,Airway
+Equ c 3,Serum albumin,67 kDa,Airway
+Equ c 4,Latherin,"17 kDa, 20.5 kDa",Airway
+Equ c 5,deleted (identical to Equ c 4); designation not available for future submissions,,Airway
+Equ c 6,Lysozyme,15 kDa,Contact
+Eri s 2,ovary development-related protein,28.2 kDa,Food
+Eup s 1,Tropomyosin,35 kDa,Food
+Eur m 1,Cysteine protease,,Airway
+Eur m 14,Apolipophorin,177 kDa,Airway
+Eur m 2,NPC2 family; MD-2-related lipid recognition (ML) domain containing protein,14 kDa,Airway
+Eur m 3,Trypsin,,Airway
+Eur m 4,Alpha-amylase,57 to 60 kDa,Airway
+Exo m 1,Tropomyosin,38 kDa,Food
+Fag e 2,2S albumin,16 kDa,Food
+Fag e 3,alpha-hairpinin,19 kDa (fragment),Food
+Fag e 4,"Hevein-like antimicrobial peptide, Fa-AMP",3.9 kDa,Food
+Fag e 5,"Vicilin-like seed storage protein, 8S globulin",55 kDa,Food
+Fag s 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17 kDa,Airway
+Fag t 2,2S albumin,16 kDa,Food
+Fag t 6,Oleosin,18 kDa,Food
+Fel d 1,Uteroglobin (chain 1),38 kDa,Airway
+Fel d 2,Serum albumin,69 kDa,Airway
+Fel d 3,Cystatin-A,11 kDa,Airway
+Fel d 4,Lipocalin,22 kDa,Airway
+Fel d 5,Immunoglobulin A,400 kDa,Airway
+Fel d 6,Immunoglobulin M,800-1000 kDa,Airway
+Fel d 7,lipocalin,17.5 kDa,Airway
+Fel d 8,Latherin-like protein,24 kDa,Airway
+Fes p 4,,60 kDa,Airway
+For t 1,Serine/threonine-protein kinase,24 kDa,Injection
+For t 2,Eukaryotic translation initiation factor 3 subunit,36 kDa,Injection
+Fra a 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",18 kDa,Food
+Fra a 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Fra a 4,Profilin,13 kDa,Food
+Fra e 1,Ole e 1-like protein family member,20 kDa,Airway
+Fus c 1,Ribosomal protein P2,11 kDa,Airway
+Fus c 2,Thioredoxin-like protein,13 kDa,Airway
+Fus p 4,Transaldolase,37.5 kDa,Airway
+Fus p 9,Vacuolar serine protease,36.5 kDa,Airway
+Gad c 1,Beta-parvalbumin,12 kDa,Food
+Gad m 1,Beta-parvalbumin,12 kDa,Food
+Gad m 2,Beta-enolase,47.3 kDa,Food
+Gad m 3,Aldolase A,40 kDa,Food
+Gal d 1,Ovomucoid,28 kDa,Food
+Gal d 10,Aldolase,,Food
+Gal d 2,Ovalbumin,44 kDa,Food
+Gal d 3,Ovotransferrin,78 kDa,Food
+Gal d 4,Lysozyme C,14 kDa,Food
+Gal d 5,"Serum albumin, alpha-livetin",69 kDa,Food
+Gal d 6,YGP42,35 kDa,Food
+Gal d 7,Myosin light chain 1f,22 kDa,Food
+Gal d 8,alpha-parvalbumin ,11.8 kDa,Food
+Gal d 9,Beta-enolase,50 kDa,Food
+Glo m 5,"Tsetse antigen 5, CAP (cysteine-rich secretory proteins, antigen 5 and pathogenesis-related 1) protein superfamily member",27 kDa,Injection
+Gly d 2,NPC2 family; MD-2-related lipid recognition (ML) domain containing protein,15 kDa,Airway
+Gly m 1,Hydrophobic protein from soybean,7 kDa,Airway
+Gly m 2,Defensin,8 kDa,Airway
+Gly m 3,Profilin,14 kDa,Food
+Gly m 4,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17 kDa ,Food
+Gly m 5,"Beta-conglycinin (vicilin, 7S globulin)",see subunits,Food
+Gly m 6,"Glycinin (legumin, 11S globulin)",see subunits,Food
+Gly m 7,Seed biotinylated protein; late embryogenesis abundant protein,76.2 kDa,Food
+Gly m 8,2S albumin,28 kDa,Food
+Hal l 1,Tropomyosin,33.4 kDa,Food
+Hal m 1,,49 kDa,Food
+Har a 1,,10 kDa,Airway
+Har a 2,aldehyde dehydrogenase,55 kDa,Airway
+Hel a 1,,34 kDa,Airway
+Hel a 15,"2S albumin seed storage protein, SESA2-1",14 kDa,Food
+Hel a 16,"2S albumin seed storage protein, SESA20-2",15 kDa,Food
+Hel a 17,"2S albumin seed storage protein, SFA-8 (SESA3)",10 kDa,Food
+Hel a 2,Profilin,14.7 kDa,Airway
+Hel a 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Hel a 6,Pectate Lyase,42 kDa,Airway
+Hel as 1,Tropomyosin,36 kDa,Food
+Hev b 1,Rubber elongation factor,14 kDa,Contact
+Hev b 10,Superoxide dismutase (Mn),26 kDa,Contact
+Hev b 11,Class I chitinase,30 kDa,Contact
+Hev b 12,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Contact
+Hev b 13,Esterase,42 kDa,Contact
+Hev b 14,Hevamine,30 kDa,Contact
+Hev b 15,Serine protease inhibitor,7.5 kDa,Contact
+Hev b 2,"beta-1,3-glucanase; glucan endo-1,3-beta-glucosidase, basic vacuolar isoform","35, 36.5 and 38 kDa",Contact
+Hev b 3,Small rubber particle protein (SRPP),24 kDa,Contact
+Hev b 4,Lecithinase homologue; GDSL lipase/esterase family member,53-55 kDa,Contact
+Hev b 5,"Acidic protein, unknown function",16 kDa,Contact
+Hev b 6,Hevein precursor,20 kDa,Contact
+Hev b 7,Patatin-like protein,42 kDa,Contact
+Hev b 8,Profilin,15 kDa,Contact
+Hev b 9,Enolase,51 kDa,Contact
+Hol l 1,Beta-expansin,34 kDa,Airway
+Hol l 5,,30 kDa,Airway
+Hom a 1,Tropomyosin,34 kDa,Food
+Hom a 3,Myosin light chain 2,~23 kDa,Food
+Hom a 6,Troponin C,~20 kDa,Food
+Hom s 1,Squamous cell carcinoma antigen SART-1,55-60 kDa,Unknown
+Hom s 2,Nascent polypeptide-associated complex alpha subunit,N.A.,Unknown
+Hom s 3,BCL7B protein,22-23 kDa,Unknown
+Hom s 4,Atopy related autoantigen CALC,N.A.,Unknown
+Hom s 5,"Keratin, type II cytoskeletal 6A",N.A.,Unknown
+Hor v 1,deleted (identical to Hor v 15); designation reserved for beta-expansin pollen allergen,,Food
+Hor v 12,Profilin,14 kDa,Food
+Hor v 15,Monomeric alpha-amylase inhibitor BMAI-1,14.5 kDa,Food
+Hor v 16,Alpha-amylase,,Food
+Hor v 17,Beta-amylase,,Food
+Hor v 20,Gamma-hordein 3,34 kDa,Food
+Hor v 5,,30 kDa,Airway
+Hum j 1,,10 kDa,Airway
+Hum j 6,Pectin methylesterase inhibitor (PMEI; pectinesterase inhibitor),10-15 kDa,Airway
+Jug n 1,2S albumin seed storage protein,,Food
+Jug n 2,Vicilin seed storage protein; 7S globulin,,Food
+Jug n 4,Legumin-like seed storage protein; 11S globulin,"34 kDa, 22 kDa",Food
+Jug r 1,2S albumin seed storage protein,15-16 kDa,Food
+Jug r 2,Vicilin (7S globulin) seed storage protein containing N-terminal alpha-hairpinin peptides,44 kDa,Food
+Jug r 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Jug r 4,11S globulin seed storage protein,58.1 kDa,Food
+Jug r 5,PR-10,20 kDa,Food
+Jug r 6,"7S globulin seed storage protein, vicilin-like protein",47 kDa,Food
+Jug r 7,Profilin,13 kDa,Food
+Jug r 8,Non-specific lipid transfer protein type 2 (nsLTP2),9 kDa,Food
+Jug r 9,Phospholipase D alpha 1,92 kDa,Food
+Jun a 1,Pectate lyase,43 kDa,Airway
+Jun a 2,Polygalacturonase,43 kDa,Airway
+Jun a 3,Thaumatin-like protein,30 kDa,Airway
+Jun a 7,Gibberellin-regulated protein,7 kDa,Airway
+Jun o 1,Pectate lyase,40 kDa,Airway
+Jun o 4,Polcalcin-like protein (4 EF hand domains),29 kDa,Airway
+Jun s 1,Pectate lyase,,Airway
+Jun v 1,Pectate lyase,43 kDa,Airway
+Jun v 3,Thaumatin-like protein,10 kDa,Airway
+Koc s 1,Ole e 1- like protein,18 kDa ,Airway
+Koc s 2,Profilin,14.5 kDa,Airway
+Lac s 1,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Lat c 1,Beta-parvalbumin,11.5 kDa,Food
+Lat c 6,Collagen alpha,130 kDa to 140 kDa,Food
+Late m 1,Parvalbumin,12 and 13 kDa,Food
+Len c 1,Gamma-vicilin subunit,47 kDa,Food
+Len c 2,Seed-specific biotinylated protein,66 kDa,Food
+Len c 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Lep d 10,Tropomyosin,40 kDa,Airway
+Lep d 13,Cytosolic fatty acid-binding protein,14.6 kDa,Airway
+Lep d 2,NPC2 family; MD-2-related lipid recognition (ML) domain containing protein,16 kDa (14 kDa non-red),Airway
+Lep d 5,Group 5/21 allergen,~12.5 kDa,Airway
+Lep d 7,Bactericidal permeability-increasing like protein,22 kDa,Airway
+Lep s 1,Tropomyosin,36 kDa,Airway
+Lep w 1,Beta-parvalbumin,11.5 kDa,Food
+Lig v 1,Ole e 1-like protein family member,20 kDa,Airway
+Lig v 2,Profilin,14.8 kDa,Airway
+Lin u 1,"2S albumin, conlinin",13 kDa; 10 kDa and 3 kDa reducing,Food
+Lip b 1,unknown function,26 kDa,Airway
+Lit c 1,Profilin,15 kDa,Food
+Lit v 1,Tropomyosin,36 kDa,Food
+Lit v 13,Cytosolic fatty acid binding protein,15 kDa,Food
+Lit v 2,Arginine kinase,40 kDa,Food
+Lit v 3,"Myosin, light chain 2",20 kDa,Food
+Lit v 4,Sarcoplasmic calcium-binding protein,20 kDa,Food
+Lol p 1,Beta-expansin,27 kDa,Airway
+Lol p 11,Ole e 1-related protein,16 kDa,Airway
+Lol p 2,Expansin-like protein homologous to the C-terminal expansin domain,11 kDa,Airway
+Lol p 3,,11 kDa,Airway
+Lol p 4,FAD-binding oxidoreductase,57 kDa,Airway
+Lol p 5,,31 kDa,Airway
+Lup a 5,Profilin,15 kDa,Food
+Lup an 1,"Conglutin beta (7S seed storage globulin, vicilin)",55-61 kDa,Food
+Lup an 3,Non-specific lipid transfer protein type 1 (nsLTP1),11 kDa,Food
+Mac i 1,Vicilin,50 kDa,Food
+Mac i 2,Legumin,60 kDa non reducing; 20 kDa and 40 kDa reducing,Food
+Mac r 1,tropomyosin,37 kDa,Food
+Mac r 2,Arginine Kinase,40 kDa,Food
+Mal d 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17.5 kDa,Food
+Mal d 2,Thaumatin-like protein,23 kDa,Food
+Mal d 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Mal d 4,Profilin,N.A.,Food
+Mala f 2,Peroxysomal membrane protein,21 kDa,Contact
+Mala f 3,Peroxysomal membrane protein,20 kDa,Contact
+Mala f 4,Mitochondrial malate dehydrogenase,35 kDa,Contact
+Mala s 1,,37 kDa,Contact
+Mala s 10,heat shock protein 70,86 kDa,Contact
+Mala s 11,manganese superoxide dismutase,23 kDa,Contact
+Mala s 12,glucose-methanol-choline (GMC) oxidoreductase,67 kDa,Contact
+Mala s 13,Thioredoxin,13 kDa,Contact
+Mala s 5,,18 kDa,Contact
+Mala s 6,Cyclophilin,17 kDa ,Contact
+Mala s 7,,16 kDa,Contact
+Mala s 8,,19 kDa,Contact
+Mala s 9,,36.7 kDa,Contact
+Man e 5,Glutamic acid rich protein,30 kDa (anomalous migration due to high P and E content),Food
+Man i 1,Class IV chitinase,28 kDa,Food
+Man i 2,PR-10 protein; Bet v 1-related protein,17 kDa,Food
+Man i 4,Profilin,14 kDa,Food
+Mel l 1,Tropomyosin,38 kDa,Food
+Mer a 1,Profilin,14.1 kDa; 15.8 kDa,Airway
+Mes a 1,lipocalin,"~20.5kDa, ~24kDa, ~30kDa - native  form and ~22kDa recombinant form",Airway
+Met e 1,Tropomyosin,34 kDa,Food
+Mor a 2,Cobalamin-independent methionine synthase,84 kDa,Airway
+Mor n 3,Non-specific lipid transfer protein type 1 (nsLTP1),10 kDa,Food
+Mus a 1,Profilin,15 kDa,Food
+Mus a 2,Class 1 chitinase,33 kDa,Food
+Mus a 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Mus a 4,Thaumatin-like protein,20 kDa,Food
+Mus a 5,"Beta-1,3-glucanase",30 kDa,Food
+Mus a 6,ascorbate peroxidase,27 kDa,Food
+Mus m 1,Lipocalin and urinary prealbumin,17 kDa ,Airway
+Myr p 1,"Pilosulin-1, M-myrmeciitoxin-Mp1",7.5 kDa and 5.5 kDa,Injection
+Myr p 2,"Pilosulin-3, M-myrmeciitoxin-Mp2",8.5 kDa and 2-4 kDa,Injection
+Myr p 3,pilosulin-4.1,8.2 kDa,Injection
+Oct v 1,Tropomyosin,37 kDa,Food
+Ole e 1,Common olive group 1,16 kDa,Airway
+Ole e 10,X8 domain containing protein,10.8 kDa,Airway
+Ole e 11,Pectin methylesterase,37.4 kDa,Airway
+Ole e 12,Isoflavone reductase,37 kDa,Airway
+Ole e 13,Thaumatin-like protein,23 kDa,Airway
+Ole e 14,Polygalacturonase,46.5 kDa,Airway
+Ole e 15,"Cyclophilin, peptidyl prolyl cis-trans isomerase",19 kDa,Airway
+Ole e 2,Profilin-1,15 kDa,Airway
+Ole e 3,Polcalcin,9 kDa,Airway
+Ole e 4,,32 kDa,Airway
+Ole e 5,Superoxide dismutase [Cu-Zn],16 kDa,Airway
+Ole e 6,,10 kDa,Airway
+Ole e 7,putative non-specific lipid transfer protein,9.5 kDa,Airway
+Ole e 8,Polcalcin-like protein (4 EF-hands),21 kDa,Airway
+Ole e 9,Beta-1-3 glucanase,46 kDa,Airway
+Onc k 5,beta-prime-component of vitellogenin,18 kDa,Food
+Onc m 1,Beta-parvalbumin,12 kDa,Food
+Ore m 4,Tropomyosin,33 kDa,Food
+Ory c 1,Lipocalin,17-18 kDa,Airway
+Ory c 2,Odorant binding protein 2; member of the lipocalin family,"18 kDa (SDS-PAGE, non-red.), 22 kDa (SDS-PAGE red.), 16,351 Da (MALDI-MS)",Airway
+Ory c 3,Lipophilin,"19-21 kDa (glycosylated heterodimer), 12-14 kDa (deglycosylated heterodimer)",Airway
+Ory c 4,Lipocalin,24 kDa,Airway
+Ory s 1,Beta-expansin,35 kDa,Airway
+Ory s 12,Profilin A,14 kDa,Airway
+Ost c 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17 kDa ,Airway
+Pac c 3,Antigen 5,23 kDa,Injection
+Pan b 1,Tropomyosin,37 kDa,Food
+Pan h 1,Parvalbumin beta,11 kDa,Food
+Pan h 10,L-lactate dehydrogenase,34 kDa,Food
+Pan h 11,Glucose 6-phosphate isomerase,60 kDa,Food
+Pan h 13,Glyceraldehyde-3-phosphate dehydrogenase (GAPDH),36 kDa ,Food
+Pan h 2,beta-enolase,50 kDa,Food
+Pan h 3,Aldolase A,40 kDa,Food
+Pan h 4,Tropomyosin alpha,35 kDa,Food
+Pan h 7,Creatine kinase,43 KDa,Food
+Pan h 8,Triosephosphate isomerase,25 kDa ,Food
+Pan h 9,Pyruvate kinase PKM-like,65 kDa,Food
+Pan s 1,Tropomyosin,34 kDa,Food
+Pana g 1,"Pathogenesis-related protein PR-10-1, Bet v 1-related protein, ribonuclease 1",17 kDa,Food
+Pap s 1,Vicilin (7S globulin) with N-terminal alpha-hairpinin peptides,"10 kDa, 17 kDa (alpha-hairpinins), 50 kDa (vicilin)",Food
+Pap s 2,Legumin (11S globulin) seed storage protein,"52 kDa (non-reducing), 30 kDa + 20 kDa (reducing)",Food
+Pap s 3,Late embryogenesis abundant protein 5 (LEA-5); small hydrophilic seed protein,10 kDa,Food
+Par h 1,"Defensin-like protein linked to polyproline-rich region, Art v 1 homologue",12 kDa,Airway
+Par j 1,Non-specific lipid transfer protein type 1 (nsLTP1),15 kDa,Airway
+Par j 2,Non-specific lipid transfer protein type 1 (nsLTP1),10-14 kDa,Airway
+Par j 3,Profilin,14 kDa,Airway
+Par j 4,Polcalcin,9 kDa,Airway
+Par o 1,Non-specific lipid transfer protein type 1 (nsLTP1),15 kDa,Airway
+Para c 11,Mitochondrial malate dehydrogenase,39 kDa,Food
+Pas n 1,Beta-expansin,29 kDa,Airway
+Pen a 1,Tropomyosin,36 kDa,Food
+Pen b 13,Alkaline serine protease,33 kDa,Airway
+Pen b 26,Acidic ribosomal prot. P1,11 kDa,Airway
+Pen c 13,Alkaline serine protease,33 kDa,Airway
+Pen c 19,Heat shock protein P70,70 kDa,Airway
+Pen c 22,Enolase,46 kDa,Airway
+Pen c 24,elongation factor 1 beta,25 kDa,Airway
+Pen c 3,Peroxysomal membrane protein,18 kDa,Airway
+Pen c 30,Catalase,97 kDa,Airway
+Pen c 32,Pectate lyase,40 kDa,Airway
+Pen ch 13,Alkaline serine protease,34 kDa,Airway
+Pen ch 18,Vacuolar serine protease,32 kDa,Airway
+Pen ch 20,N-acetyl-glucosaminidase,68 kDa,Airway
+Pen ch 31,Calreticulin,,Airway
+Pen ch 33,,16 kDa,Airway
+Pen ch 35,Transaldolase,36.5 kDa,Airway
+Pen cr 26,60S acidic ribosomal phosphoprotein P1,11 kDa,Airway
+Pen i 1,Tropomyosin,34 kDa,Food
+Pen m 1,tropomyosin,38 kDa,Food
+Pen m 13,Cytoplasmic fatty acid binding protein,20 kDa,Food
+Pen m 14,Glycogen phosphorylase-like protein,95 kDa,Food
+Pen m 2,arginine kinase,40 kDa,Food
+Pen m 3,Myosin light chain 2,20 kDa,Food
+Pen m 4,Sarcoplasmic calcium binding protein,20 kDa,Food
+Pen m 6,Troponin C,16.8 kDa,Food
+Pen m 7,Hemocyanin,76 kDa,Food
+Pen m 8,Triosephosphate isomerase,27 kDa,Food
+Pen o 18,Vacuolar serine protease,34 kDa,Airway
+Per a 1,"Nitrile-specifier, microvilli-like protein with unknown function",45 kDa,Airway
+Per a 10,Serine protease,28 kDa,Airway
+Per a 11,alpha-amylase,55 kDa,Airway
+Per a 12,Chitinase,45 kDa,Airway
+Per a 13,Glyceraldehyde-3-phosphate dehydrogenase,36 kDa,Airway
+Per a 14,Enolase,50 kDa,Airway
+Per a 15,Cytochrome C,15 kDa,Airway
+Per a 16,Cofilin,20 kDa,Airway
+Per a 17,Alpha-tubulin,53 kDa,Airway
+Per a 18,Peptidyl-prolyl-cis-trans isomerase; Cyclophilin,24 kDa,Airway
+Per a 19,Porin 3,7.4 kDa,Airway
+Per a 2,Aspartic protease-like protein without proteolytic activity,42 kDa,Airway
+Per a 20,Peroxiredoxin-6 (Prx6),24 kDa,Airway
+Per a 21,Fructose bisphosphate aldolase,"39 kDa (SDS-PAGE), 160 kDa (SEC; tetramer)",Airway
+Per a 22,Pyruvate kinase,"58 kDa (SDS-PAGE), ~220 kDa (SEC, tetramer)",Airway
+Per a 23,Glutathione S-transferase (GST) class sigma (related to Bla g 5),24 kDa,Airway
+Per a 3,Arylphorins/TO Arthropod hemocyanins,72 kDa,Airway
+Per a 4,Lipocalin-related calycin superfamily member,17 kDa,Airway
+Per a 5,Glutathione S-transferase (GST) class delta,23 kDa,Airway
+Per a 6,Troponin C,17 kDa ,Airway
+Per a 7,Tropomyosin,33 kDa,Airway
+Per a 8,Myosin light chain,28 kDa non-reducing; 22 kDa reducing,Airway
+Per a 9,Arginine kinase,43 kDa,Airway
+Pers a 1,Class I chitinase,32 kDa,Food
+Pha a 1,Beta-expansin,34 kDa,Airway
+Pha a 5,,28.8-33.5 kDa,Airway
+Pha v 3,Non-specific lipid transfer protein type 1 (nsLTP1),8.8-9.0 kDa,Food
+Phl p 1,Beta-expansin,27 kDa,Airway
+Phl p 11,Ole e 1-related protein,20 kDa,Airway
+Phl p 12,Profilin,14 kDa,Airway
+Phl p 13,Polygalacturonase,55 kDa,Airway
+Phl p 2,Grass group II/III,10-12 kDa,Airway
+Phl p 3,Group 3 grass pollen allergen; comtains a C-terminal expansin domain,10.9 kDa,Airway
+Phl p 4,Berberine bridge enzyme,55 kDa,Airway
+Phl p 5,,32 kDa,Airway
+Phl p 6,,11 kDa,Airway
+Phl p 7,Polcalcin,6 kDa (8.6 kDa calc mass),Airway
+Pho d 2,Profilin,14 kDa,Food
+Phod s 1,"lipocalin, odorant binding protein",23 kDa,Airway
+Pin k 2,Vicilin,48 kDa,Food
+Pin p 1,2S albumin,6 kDa (reducing) and 15 kDa (non-reducing),Food
+Pin y 2,"Vicilin-like seed storage protein, 7S globulin",50 kDa,Food
+Pis s 1,Vicilin,44 kDa,Food
+Pis s 2,Convicilin,63 kDa,Food
+Pis s 3,Non-specific lipid transfer protein type 1 (nsLTP1),9.5 kDa,Food
+Pis v 1,2S albumin,7 kDa,Food
+Pis v 2,11S globulin subunit,32 kDa,Food
+Pis v 3,vicillin,55 kDa,Food
+Pis v 4,manganese superoxide dismutase,25.7 kDa,Food
+Pis v 5,11S globulin subunit,36 kDa (acidic subunit),Food
+Pla a 1,Putative invertase inhibitor,18 kDa,Airway
+Pla a 2,Polygalacturonase,43 kDa,Airway
+Pla a 3,Non-specific lipid transfer protein type 1 (nsLTP1),10 kDa,Airway
+Pla a 4,Profilin,13.5 kDa,Airway
+Pla a 5,"Adenosylhomocysteinase (S-adenosyl-L-homocysteine hydrolase, AHCY)",55 kDa,Airway
+Pla a 6,Enolase,48 kDa,Airway
+Pla a 7,Triosephosphate isomerase (TIM),27 kDa,Airway
+Pla a 8,Fructose-bisphosphate aldolase,38 kDa,Airway
+Pla l 1,Ole e 1-related protein,18 kDa,Airway
+Pla l 2,Profilin,15 kDa,Airway
+Pla or 1,Plant invertase/pectin methylesterase inhibitor,18 kDa,Airway
+Pla or 2,Polygalacturonase,42 kDa,Airway
+Pla or 3,Non-specific lipid transfer protein type 1 (nsLTP1),11 kDa,Airway
+Plo i 1,Arginine kinase,40 kDa,Airway
+Plo i 2,Thioredoxin,12 kDa,Airway
+Poa p 1,Beta-expansin,33 kDa,Airway
+Poa p 5,,34 kDa,Airway
+Pol a 1,Phospholipase A1B,34 kDa,Injection
+Pol a 2,Hyaluronidase,38 kDa,Injection
+Pol a 5,Antigen 5,23 kDa,Injection
+Pol d 1,Phospholipase A1,34 kDa,Injection
+Pol d 2,Hyaluronidase,50 kDa,Injection
+Pol d 3,Dipeptidyl peptidase IV,100 kDa,Injection
+Pol d 4,Serine protease,33 kDa,Injection
+Pol d 5,Antigen 5,23 kDa,Injection
+Pol e 1,Phospholipase A1,34 kDa,Injection
+Pol e 4,Serine protease,33 kDa,Injection
+Pol e 5,Antigen 5,23 kDa,Injection
+Pol f 5,Antigen 5,23 kDa,Injection
+Pol g 1,Phospholipase A1,33.475 kDa by mass spec,Injection
+Pol g 5,Antigen 5,24 kDa,Injection
+Pol m 5,Antigen 5,23 kDa,Injection
+Poly p 1,Phospholipase A1,34 kDa,Injection
+Poly p 2,Hyaluronidase,33 kDa,Injection
+Poly p 5,Venom antigen 5,21.19 kDa,Injection
+Poly s 5,,23 kDa,Injection
+Pon l 4,Sarcoplasmic calcium-binding protein,~24 kDa,Food
+Pon l 7,Troponin I,~30 kDa,Food
+Pop n 2,Profilin,14.0 kDa,Airway
+Por p 1,Tropomyosin,39 kDa,Food
+Por t 4,Sarcoplasmic Ca-binding protein (SCP),22 kDa,Food
+Pro c 1,Tropomyosin,36 kDa,Food
+Pro c 2,Arginine kinase,40 kDa,Food
+Pro c 5,Myosin light chain 1,18 kDa,Food
+Pro c 8,Triosephosphate isomerase,28 kDa,Food
+Pro j 1,Ole e 1- like protein,18 kDa ,Airway
+Pro j 2,Profilin,14.3 kDa,Airway
+Pru ar 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",N.A.,Food
+Pru ar 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Pru ar 5,Acidic Hev b 5-like protein ,17.4 kDa,Food
+Pru av 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",9 kDa,Food
+Pru av 2,Thaumatin-like protein,23 kDa,Food
+Pru av 3,Non-specific lipid transfer protein type 1 (nsLTP1),10 kDa,Food
+Pru av 4,Profilin,15 kDa,Food
+Pru av 7,Gibberellin-regulated protein,9 kDa,Food
+Pru d 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Pru du 1,"PR-10, Bet v 1-related protein",18 kDa,Food
+Pru du 10,Mandelonitrile lyase 2; Hydroxynitrile lyase,60 kDa,Food
+Pru du 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Pru du 4,Profilin,14 kDa,Food
+Pru du 5,60s acidic ribosomal prot. P2,10 kDa,Food
+Pru du 6,"Amandin, 11S globulin, legumin-like protein",360 kDa (hexamer),Food
+Pru du 8,Alpha-hairpinin,31 kDa,Food
+Pru m 7,"gibberellin-regulated protein, peamaclein",6.9 kDa,Food
+Pru p 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",18 kDa,Food
+Pru p 10,Polygalacturonase,46 kDa,Airway
+Pru p 2,Thaumatin-like protein,25-28 kDa,Food
+Pru p 3,Non-specific lipid transfer protein type 1 (nsLTP1),10 kDa,Food
+Pru p 4,Profilin,14 kDa,Food
+Pru p 7,Gibberellin-regulated protein (PF02704),"6910.84 Da (mass spectrometry, mature protein)",Food
+Pru p 9,Pathogenesis-related protein PR-1,18 kDa,Airway
+Psi c 1,,,Airway
+Psi c 2,Cyclophilin,16 kDa,Airway
+Pun g 1,Non-specific lipid transfer protein 1 (nsLTP1),9 kDa,Food
+Pun g 14,Chitinase III,29 kDa,Food
+Pun g 7,"Gibberellin regulated protein, pommaclein",7 kDa,Food
+Pyr c 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",18 kDa,Food
+Pyr c 3,Nonspecific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Pyr c 4,Profilin,14 kDa,Food
+Pyr c 5,"Isoflavone reductase related protein, putative phenylcoumaran benzylic ether reductase",34 kDa,Food
+Que a 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17 kDa ,Airway
+Que ac 1,Pathogenesis-related protein PR-10; Bet v 1-related protein,17 kDa,Airway
+Que ac 2,Profilin,16 kDa,Airway
+Que i 1,Pathogenesis-related protein PR-10; Bet v 1-related protein,21 kDa,Airway
+Que i 2,Profilin,13 kDa,Airway
+Que i 6,Isoflavone reductase-like protein,34 kDa,Airway
+Que m 1,Pathogenesis-related protein PR-10; Bet v 1-related protein,17 kDa,Airway
+Ran e 1,Alpha-parvalbumin,11.9 kDa,Food
+Ran e 2,Beta-parvalbumin,11.7 kDa,Food
+Rap v 2,Paramyosin,99 kDa,Food
+Ras k 1,Parvalbumin,11.3 kDa,Food
+Rat n 1,Lipocalin and Alpha-2u-globulin,17 kDa ,Airway
+Rhi o 1,Aspartyl endopeptidase,44 kDa,Airway
+Rhi o 2,Cyclophilin,18 kDa,Airway
+Rho m 1,Enolase,47 kDa,Airway
+Rho m 2,vacuolar serine protease,31 kDa,Airway
+Ric c 1,2S albumin,11 kDa,Food
+Rub i 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17 kDa ,Food
+Rub i 3,Non-specific lipid transfer protein 1 (nsLTP1),11 kDa,Food
+Sac g 1,Tropomyosin,38 kDa,Food
+Sal k 1,Pectin methylesterase,43 kDa,Airway
+Sal k 2,Protein kinase homologue,36 kDa,Airway
+Sal k 3,Cobalamin independent methionine synthase,39+45 kDa,Airway
+Sal k 4,Profilin,14 kDa,Airway
+Sal k 5,Ole e 1-like protein,18.2 kDa,Airway
+Sal k 6,Polygalacturonase,47 kDa cleaves to 28 kDa,Airway
+Sal k 7,Polcalcin,8.5 kDa,Airway
+Sal s 1,Beta-parvalbumin 1,12 kDa,Food
+Sal s 2,Beta-Enolase,47.3 kDa,Food
+Sal s 3,Aldolase A,40 kDa,Food
+Sal s 4,Tropomyosin,37 kDa,Food
+Sal s 6,Collagen alpha,130-140 kDa,Food
+Sal s 7,Creatine kinase,43 kDa,Food
+Sal s 8,Triosephosphate isomerase,25 kDa,Food
+Sar sa 1,Beta-parvalbumin,12 kDa,Food
+Sch c 1,Glucoamylase,61 kDa,Airway
+Sco m 5,Venom allergen 5,20 kDa,Injection
+Sco s 1,Parvalbumin,12 kDa,Food
+Scy p 1,Tropomyosin,38 kDa,Food
+Scy p 2,Arginine kinase,40 kDa,Food
+Scy p 3,Myosin light chain,18 kDa,Food
+Scy p 4,Sarcoplasmic Ca+ binding protein,20 kDa,Food
+Scy p 8,Triosephosphate isomerase,28 kDa,Food
+Scy p 9,Filamin C,90 kDa,Food
+Seb m 1,Beta-parvalbumin,11 kDa,Food
+Sec c 1,renamed to Sec c 38; designation reserved for beta-expansin pollen allergen,,Airway
+Sec c 20,"Gamma-secalin, coeliac immunoreactive protein",70 kDa,Food
+Sec c 38,Dimeric alpha-amylase/trypsin inhibitor,13.5,Airway
+Sec c 5,Group 5 grass pollen allergen,30 kDa,Airway
+Ses i 1,2S albumin,9 kDa,Food
+Ses i 2,2S albumin,7 kDa,Food
+Ses i 3,7S vicilin-like globulin,45 kDa,Food
+Ses i 4,oleosin,17 kDa ,Food
+Ses i 5,oleosin,15 kDa,Food
+Ses i 6,11S globulin,52 kDa,Food
+Ses i 7,11S globulin,57 kDa,Food
+Sin a 1,2S albumin,14 kDa,Food
+Sin a 2,11S globulin (legumin-like) seed storage protein,51 kDa,Food
+Sin a 3,Non-specific lipid transfer protein type 1 (nsLTP1),12.3 kDa,Food
+Sin a 4,Profilin,13/14 kDa,Food
+Sol g 2,,13 kDa,Injection
+Sol g 3,,24 kDa,Injection
+Sol g 4,,12 kDa,Injection
+Sol i 1,Phospholipase A1B,18 kDa,Injection
+Sol i 2,,14 kDa,Injection
+Sol i 3,,26 kDa,Injection
+Sol i 4,,12 kDa,Injection
+Sol r 2,,13 kDa,Injection
+Sol r 3,,24 kDa,Injection
+Sol s 2,,13 kDa,Injection
+Sol s 3,,24 kDa,Injection
+Sola l 1,Profilin,14 kDa,Food
+Sola l 2,Beta-fructofuranosidase,50 kDa,Food
+Sola l 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Sola l 4,"Pathogenesis-related protein, PR-10, Bet v 1 family member, TSI-1",20 kDa,Food
+Sola l 5,Cyclophilin,19 kDa,Food
+Sola l 6,Non-specific lipid transfer protein type 2 (nsLTP2),7 kDa,Food
+Sola l 7,Non-specific lipid transfer protein type 1 (nsLTP1),12.5 kDa (SDS PAGE reducing),Food
+Sola m 1,Profilin,17 kDa,Food
+Sola t 1,Patatin,43 kDa,Food
+Sola t 2,"Cathepsin D inhibitor PDI, aspartic protease inhibitor 11, Kunitz-type protease inhibitor",21 kDa,Food
+Sola t 3,"Cysteine protease inhibitor 1, cysteine protease inhibitor 10, Kunitz-type protease inhibitor",21 kDa,Food
+Sola t 4,"Serine protease inhibitor 7, Kunitz-type protease inhibitor, PIG",16 kDa,Food
+Sole s 1,Parvalbumin,11-14 kDa,Food
+Sor h 1,Beta-expansin,30-35 kDa,Airway
+Sor h 13,Exopolygalacturonase (Glycosyl hydrolase 28),54-55 kDa (glycosylated protein),Airway
+Sor h 2,Expansin-like protein; grass pollen group 2 allergen,12 kDa,Airway
+Sta c 3,Extracellular alkaline Mg-dependent exodesoxyribonuclease,21 kDa (Glycosylated monomer),Airway
+Sui p 2,NPC2 family; MD-2-related lipid recognition (ML) domain containing protein,14 kDa,Airway
+Sus s 1,Serum albumin,60 kDa,Food
+Syr v 1,Ole e 1-related protein,20 kDa,Airway
+Syr v 3,Polcalcin,8.9 kDa theoretical mass,Airway
+Tab y 1,Apyrase,70 kDa,Injection
+Tab y 2,Hyaluronidase,35 kDa,Injection
+Tab y 5,"Antigen 5-related protein, CAP (cysteine-rich secretory proteins, antigen 5 and pathogenesis-related 1) protein superfamily member",26 kDa,Injection
+Tha p 1,,15 kDa,Contact
+Tha p 2,Protein with unknown function,15 kDa,Contact
+Thu a 1,Beta-parvalbumin,11 kDa,Food
+Thu a 2,Beta-enolase,50 kDa,Food
+Thu a 3,Aldolase A,40 kDa,Food
+Tod p 1,Tropomyosin,38 kDa,Food
+Tri a 12,Profilin,14 kDa,Food
+Tri a 14,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Airway
+Tri a 15,Monomeric alpha-amylase inhibitor 0.28,,Airway
+Tri a 17,beta-amylase,56 kDa,Food
+Tri a 18,"Agglutinin isolectin 1, isolectin A, wheat germ agglutinin 1 (WGA1)",,Food
+Tri a 19,Omega-5 gliadin,65 kDa,Food
+Tri a 20,Gamma gliadin,35 to 38 kDa,Food
+Tri a 21,Alpha/beta gliadin,,Airway
+Tri a 25,Thioredoxin,,Food
+Tri a 26,High molecular weight glutenin,88 kDa,Food
+Tri a 27,Thiol reductase homologue,27 kDa,Airway
+Tri a 28,Dimeric alpha-amylase inhibitor 0.19,13 kDa,Airway
+Tri a 29,Tetrameric alpha-amylase inhibitor CM1/CM2,13 kDa,Airway
+Tri a 30,Tetrameric alpha-amylase inhibitor CM3,16 kDa,Airway
+Tri a 31,Triosephosphate-isomerase,,Airway
+Tri a 32,1-cys-peroxiredoxin,,Airway
+Tri a 33,Serpin,,Airway
+Tri a 34,Glyceraldehyde-3-phosphate-dehydrogenase,,Airway
+Tri a 35,Dehydrin,,Airway
+Tri a 36,Low molecular weight glutenin,40 kDa,Food
+Tri a 37,Alpha purothionin,12 kDa,Food
+Tri a 39,Serine protease inhibitor-like protein,,Airway
+Tri a 40,Tetrameric alpha-amylase inhibitor CM17,15.96 kDa,Airway
+Tri a 41,Mitochondrial ubiquitin ligase activator of NFKB 1 (fragment),,Airway
+Tri a 42,Tapetum determinant 1 (TPD1) fragment,,Airway
+Tri a 43,Transcriptional corepressor SCAI,12 kDa,Airway
+Tri a 44,Endosperm transfer cell specific PR60 (nsLTP-like protein),10 kDa,Airway
+Tri a 45,Transcription elongation factor 1  (EIF1),10 kDa,Airway
+Tri r 2,Putative secreted alkaline protease Alp1,29 kDa,Contact
+Tri r 4,Serine protease,85 kDa,Contact
+Tri t 1,,30 kDa,Contact
+Tri t 4,Serine protease,83 kDa,Contact
+Tri tu 14,nsLipid transfer protein 1,9.2 kDa,Food
+Tria p 1,Procalin,20 kDa,Injection
+Tric l 1,Parvalbumin,11 kGa,Food
+Trip s 1,Endochitinase,38 kDa,Airway
+Tyr p 1,Cysteine protease,25 kDa,Airway
+Tyr p 10,Tropomyosin,33 kDa,Airway
+Tyr p 11,Paramyosin,98 kDa non-reducing,Airway
+Tyr p 13,Cytosolic fatty acid-binding protein,15 kDa,Airway
+Tyr p 2,NPC2 family; MD-2-related lipid recognition (ML) domain containing protein,16 kDa,Airway
+Tyr p 20,Arginine kinase,40 kDa,Airway
+Tyr p 28,Heat shock protein Hsp70,76 kDa,Airway
+Tyr p 3,Trypsin,26 kDa,Airway
+Tyr p 31,Cofilin,17 kDa,Airway
+Tyr p 32,Inorganic pyrophosphatase,33 kDa,Airway
+Tyr p 34,Troponin C,18 kDa,Airway
+Tyr p 35,Aldehyde dehydrogenase,52 kDa,Airway
+Tyr p 36,Profilin,14 kDa,Airway
+Tyr p 4,Alpha-amylase,58 kDa,Airway
+Tyr p 7,Bactericidal permeability increasing protein,25 kDa,Airway
+Tyr p 8,Glutathione S transferase,26 kDa,Airway
+Ulo c 1,Alt a 1 homologue,17 kDa,Airway
+Uro m 1,Beta expansin,30 kDa,Airway
+Ves f 5,Antigen 5,23 kDa,Injection
+Ves g 5,Antigen 5,23 kDa,Injection
+Ves m 1,Phospholipase A1B,34 kDa,Injection
+Ves m 2,Hyaluronidase,46 kDa,Injection
+Ves m 5,Antigen 5,23 kDa,Injection
+Ves p 5,Antigen 5,23 kDa,Injection
+Ves s 1,Phospholipase A1B,34 kDa,Injection
+Ves s 5,Antigen 5,23 kDa,Injection
+Ves v 1,Phospholipase A1B,34 kDa,Injection
+Ves v 2,Hyaluronidase,38 kDa,Injection
+Ves v 3,Dipeptidylpeptidase IV,100 kDa,Injection
+Ves v 5,Antigen 5,23 kDa,Injection
+Ves v 6,Vitellogenin,200 kDa,Injection
+Ves vi 5,Antigen 5,23 kDa,Injection
+Vesp c 1,Phospholipase A1B,34 kDa,Injection
+Vesp c 5,Antigen 5,23 kDa,Injection
+Vesp m 1,Phospholipase A1B,34 kDa,Injection
+Vesp m 5,Antigen 5,23 kDa,Injection
+Vesp ma 2,Hyaluronidase,35 kDa,Injection
+Vesp ma 5,"Antigen 5, member of PR-1 family",25 kDa,Injection
+Vesp v 1,Phospholipase A1,36.1 kDa,Injection
+Vesp v 5,Venom allergen 5,23 kDa,Injection
+Vig r 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",16 kDa,Food
+Vig r 2,8S Globulin (Vicilin),52 kDa,Food
+Vig r 3,Renamed to Vig r 2.0201; number not available for future submissions,50 kDa,Food
+Vig r 4,Seed albumin,30 kDa,Food
+Vig r 5,Identified as fragment of Vig r 2; number not available for future submissions,18 kDa,Food
+Vig r 6,"Cytokinin-specific binding protein (CSBP), Bet v 1 family member",18 kDa,Food
+Vit v 1,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Xip g 1,Beta-parvalbumin,11.5 kDa,Food
+Zan b 1,2S albumin,14 kDa (non-reducing); 4 kDa and 10 kDa (reducing),Food
+Zan b 2,11S globulin seed storage protein; legumin,"50 kDa non reducingh, 22.3 kDa reducing",Food
+Zea m 1,Beta-expansin,25-35,Airway
+Zea m 12,Profilin,14 kDa,Airway
+Zea m 14,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food
+Zea m 25,thioredoxin,13.8 kDa,Airway
+Zea m 8,Class IV chitinase,28.6 kDa,Food
+Ziz m 1,Class III chitinase,30 kDa,Food
+Zoy m 1,Pollen expansin,30 kDa,Airway

@@ -150,25 +150,29 @@ async def get_patient(patient_id: str):
     raise HTTPException(status_code=404, detail="Patient not found")
 
 
+from typing import Optional
+
 @app.get(
     "/stats/regions",
-    tags=["Statistiques par région"],
+    tags=["Statistiques"],
     summary="Statistiques par région",
+    description="Calcule le nombre de patients et le pourcentage de sensibilisation par région.",
     dependencies=[Depends(verify_api_key)],
 )
-def get_stats_regions(region= Query(default=None, description="Filtrer par region")):
+def get_stats_regions(region: Optional[str] = Query(default=None, description="Filtrer par région")):
     """Statistiques agrégées"""
-    condition = "WHERE region = ?" if region else ""
+    # Utilisation d'une condition propre avec la majuscule alignée sur la base
+    condition = "WHERE Region = ?" if region else ""
     params = (region,) if region else ()
 
     requete_region = query_db(f"""
-    SELECT
-    a.Region,
-    COUNT(*) as nb_patients,
-    AVG(a.Sensitization)*100 as pourcentage_de_sensibilises
-    FROM allergies_categories a
-    {condition}
-    GROUP BY region
+        SELECT
+            Region,
+            COUNT(*) as nb_patients,
+            AVG(Sensitization) * 100 as pourcentage_de_sensibilises
+        FROM allergies_categories
+        {condition}
+        GROUP BY Region
     """, params)
 
     return requete_region

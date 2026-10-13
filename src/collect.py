@@ -104,37 +104,39 @@ def download_file(url: str, dest: Path, timeout: int = 60) -> bool:
 # ---------------------------------------------------------------------------
 
 def scrape_file(url: str, dest: Path, timeout: int = 60) -> bool:
-    """
-    Télécharge un fichier avec gestion des erreurs HTTP et réseau.
-    Retourne True si succès, False sinon.
-    """
+    """Scrape le tableau d'allergènes et l'enregistre en CSV."""
     logger.info(f"Scraping : {url}")
     try:
-        response = requests.get(url, timeout=timeout, stream=True)
+        response = requests.get(url, timeout=timeout)
         response.raise_for_status()
 
-        # Status OK
         rows = []
         soup = BeautifulSoup(response.text, "html.parser")
         all_tr = soup.find_all("tr")
-        rows_len = len(all_tr)
-        for i in range(4, rows_len):
-            tr = all_tr[i]
-            # Working on a single row
-            soup2 = BeautifulSoup(str(tr), "html.parser")
-            all_a = soup2.find_all("td")
-            all_a_contents = [z.contents for z in all_a]
-            all_a_contents = all_a_contents[1:5]
-            all_a_contents = [z[0] if z else None for z in all_a_contents]
-            z = str(all_a_contents[0])
-            z_start = z.find(">") + 1
-            all_a_contents[0] = z[z_start:-4]
-            rows.append(all_a_contents)
-        # Writing down our data-file
+
+        for tr in all_tr[4:]:  # Parcourt à partir de la 5ème ligne
+            tds = tr.find_all("td")
+            
+            # Sécurité : on vérifie qu'il y a au moins 5 colonnes dans cette ligne
+            if len(tds) < 5:
+                continue
+
+            # Extraction sécurisée du contenu des colonnes 1 à 4
+            cols = []
+            for td in tds[1:5]:
+                # On récupère le texte propre sans balises HTML
+                text = td.get_text(strip=True)
+                cols.append(text if text else None)
+
+            if cols and len(cols) == 4:
+                rows.append(cols)
+
+        # Enregistrement dans le fichier CSV
         df = pd.DataFrame(rows, columns=["allergen", "name", "molecular_mass", "route"])
         df.to_csv(path_or_buf=dest, index=False)
+
         nb_rows = len(rows)
-        logger.info(f"  ✓ Téléchargé : {dest.name} ({nb_rows} rows)")
+        logger.info(f"  ✓ Téléchargé : {dest.name} ({nb_rows} lignes)")
         return True
 
     except requests.exceptions.HTTPError as e:
